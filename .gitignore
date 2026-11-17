@@ -1,0 +1,18 @@
+# 本地发布相关，不上传
+deploy/
+docs/
+
+# 第三方参考脚本
+ref/
+assistant.user.js
+assistant-README.md
+repo-README.md
+history.txt
+
+# 临时
+_*.sh
+.served.tmp
+served*.js
+live.tmp
+push.log
+node_modules/
